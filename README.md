@@ -1,6 +1,6 @@
 # Tablue ATLIK HARDWARE SALE'S ANALYSIS
-Sales Insights Data Analysis Project
-Instructions to setup mysql on your local computer
+Sales Insights of Data Analysis Project
+ 
 
 
 
