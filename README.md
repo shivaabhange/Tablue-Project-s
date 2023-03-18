@@ -56,6 +56,8 @@ Data Analysis Using Power BI
 
 
 
+file:///C:/Users/shiva/OneDrive/Desktop/COULDYMAL/DataAnalysisProjects-master/1_SalesInsights/Atlik%20Hardware%20Dashbord.pdf
+
 
 
 
