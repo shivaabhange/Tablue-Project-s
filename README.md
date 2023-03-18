@@ -56,11 +56,11 @@ Data Analysis Using Power BI
 
 
 
-https://github.com/shivaabhange/Tablue-Project-s/blob/main/Atlik%20Hardware%20Dashbord.pdf
-
+ 
   
 
 
+[Atlik Hardware Dashbord.pdf](https://github.com/shivaabhange/Tablue-Project-s/files/11008292/Atlik.Hardware.Dashbord.pdf)
 
 
 
