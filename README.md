@@ -57,10 +57,15 @@ Data Analysis Using Power BI
 # Sales Key Insights:
 
 ---> Total revenue is 986.57 million and total sales quantity is 2.444.42.
+
 ---> Delhi NCR generated the highest revenue at 519.58 million and Bengaluru generated the lowest at 0.37 million.
+
 ---> Delhi NCR sold the highest quantity at 988.29 K and Bengaluru sold the lowest at 0.41 K.
+
 ---> January 2018 generated the highest revenue at 42.52 million and June 2020 generated the lowest at 14.71 million.
+
 ---> Electricalsara Stores is the top customer by revenue with 413.33 million.
+
 ---> Prod040 is the top product by revenue with 23.58 million.
 
 
