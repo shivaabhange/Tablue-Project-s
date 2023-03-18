@@ -5,7 +5,11 @@
  # Problem Statement
  
 AtliQ Hardware supplies hardware to various clients, with its head office in Delhi, India and regional offices across the country. Bhavin Patel is the sales director in charge of the head office.
+
 Bhavin noticed declining sales, but tracking sales data was difficult due to the many branches and regional managers who presented a rosy picture of the business. He turned to data analytics to gain insights into the sales data, which will help the company make informed decisions. This proactive step towards enhancing sales performance is expected to yield positive results for the company.
+
+# Data Discovery
+In this project, the process begins with the IT team entering data into the Sales Management System via the MySQL database. The data is then transformed into an automated dashboard by the data analyst team. The process is designed to be simple and efficient, ensuring that data is readily available for analysis and decision-making purposes.
 
 
 
