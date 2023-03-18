@@ -1,8 +1,9 @@
 # Tablue ATLIK HARDWARE SALE'S ANALYSIS
-Sales Insights of Data Analysis Project
+ 
  
  
  Problem Statement
+ 
 AtliQ Hardware supplies hardware to various clients, with its head office in Delhi, India and regional offices across the country. Bhavin Patel is the sales director in charge of the head office.
 
 
