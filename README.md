@@ -27,7 +27,11 @@ An automated dashboard that provides quick & up-to-date sales insights to suppor
 The sales dashboard provides sales order insights using the most recent data available. The sales team can utilize these insights to make informed decisions and potentially reduce costs by 10% of total expenses. Additionally, sales analysts no longer have to manually collect data, saving them 20% of their business time, which can be redirected towards value-added activities. Overall, the dashboard is an effective tool that promotes efficiency and productivity in sales-related activities.
 
 
-Data Analysis Using SQL
+# Data Analysis Using SQL
+
+I used MySQL Workbench to analyze the data first before doing ETL (Extract-Transform-Load) via Tableau. I have several table, consisting of 1 fact table, transactions, and 4 dimension tables, customers, date, markets, and products.
+
+
 1.	Show all customer records
 SELECT * FROM customers;
 2.	Show total number of customers
