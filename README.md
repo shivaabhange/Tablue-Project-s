@@ -54,4 +54,14 @@ Data Analysis Using Power BI
 1.	Formula to create norm_amount column
 = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)
 
+# Sales Key Insights:
+
+---> Total revenue is 986.57 million and total sales quantity is 2.444.42.
+---> Delhi NCR generated the highest revenue at 519.58 million and Bengaluru generated the lowest at 0.37 million.
+---> Delhi NCR sold the highest quantity at 988.29 K and Bengaluru sold the lowest at 0.41 K.
+---> January 2018 generated the highest revenue at 42.52 million and June 2020 generated the lowest at 14.71 million.
+---> Electricalsara Stores is the top customer by revenue with 413.33 million.
+---> Prod040 is the top product by revenue with 23.58 million.
+
+
 
