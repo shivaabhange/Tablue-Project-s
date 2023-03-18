@@ -12,6 +12,20 @@ Bhavin noticed declining sales, but tracking sales data was difficult due to the
 In this project, the process begins with the IT team entering data into the Sales Management System via the MySQL database. The data is then transformed into an automated dashboard by the data analyst team. The process is designed to be simple and efficient, ensuring that data is readily available for analysis and decision-making purposes.
 
 
+I will also explain the direction of this project using Aim’s grid:
+
+# Purpose:
+To unlock previously unseen sales insights to assist sales team decision making & automate insights to reduce time spent on data collection.
+
+# Stakeholders:
+Sales and marketing team, IT team and data analytics team.
+
+# End Result:
+An automated dashboard that provides quick & up-to-date sales insights to support data-driven decision making.
+
+# Success Criteria:
+The sales dashboard provides sales order insights using the most recent data available. The sales team can utilize these insights to make informed decisions and potentially reduce costs by 10% of total expenses. Additionally, sales analysts no longer have to manually collect data, saving them 20% of their business time, which can be redirected towards value-added activities. Overall, the dashboard is an effective tool that promotes efficiency and productivity in sales-related activities.
+
 
 Data Analysis Using SQL
 1.	Show all customer records
